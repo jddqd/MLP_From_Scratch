@@ -1,5 +1,7 @@
 # Multi Layer Perceptron
 
+Work In Progress
+
 This in an implementation of a MLP from scratch. This neural network is designed with 2 layers, including one hidden layer and used to perform binary classification. Technical details are available in the notebook. 
 
 Reference : 
