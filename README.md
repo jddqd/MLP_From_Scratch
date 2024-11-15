@@ -2,7 +2,13 @@
 
 This in an implementation of a MLP from scratch. This neural network is designed with 2 layers, including one hidden layer and used to perform binary classification. Technical details are available in the notebook. 
 
-To code this MLP, I based myself on the course given by Geoffroy Peeters, professor at Télécom Paris. Concerning alternatives to gradient descent, they are based of courses given by Rémi Flamary, professor at Ecole Polytechique.
+Reference : 
+
+IA-306 "Deep Learning I" course by Geoffroy Peeters, Alasdair Newson (Telecom Paris, IP-Paris)
+
+Adam: A Method for Stochastic Optimization (Kingma, Diederik and Ba, Jimmy), In International Conference on Learning Representations (ICLR), 2015.
+
+
 
 ### Overview of the MLP
 $$ 
